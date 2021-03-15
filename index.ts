@@ -101,6 +101,7 @@ function main() {
     console.log(mafalda.getPisoByName("primer piso"));
     console.log(mafalda.getDepartamentosByPiso("segundo piso"));
     console.log("Trying pull");
+    console.log("Trying pull 2.0");
 
 }
 main();
